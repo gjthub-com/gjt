@@ -1,3 +1,22 @@
-<a href="https://gjthub-com.github.io/DLStore_v13.apk">DLStore_v13.apk</a><br>
-<hr  width="50%"/>
-<a href="https://gjthub-com.github.io/MonPlayer-TV_1.0.3.apk">MonPlayer-TV_1.0.3.apk</a>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <a href="https://gjthub-com.github.io/DLStore_v13.apk">DLStore_v13.apk</a>
+  <hr />
+
+  <a href="https://gjthub-com.github.io/MonPlayer-TV_1.0.3.apk">MonPlayer-TV_1.0.3.apk</a>
+  <hr color="black" />
+
+  Đường kẻ màu xanh dương, chiều dài 150px
+  <hr color="blue" width="150px" />
+
+
+</body>
+</html>
+
