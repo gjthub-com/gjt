@@ -14,7 +14,7 @@
   <hr color="black" />
 
   Đường kẻ màu xanh dương, chiều dài 150px
-  <hr color="blue" width="150px" />
+  <hr color="black" width="500px" />
 
 
 </body>
