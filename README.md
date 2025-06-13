@@ -50,7 +50,7 @@
   <a href="https://gjthub-com.github.io/iMedia-Xem-TV-HD_25.04.06.B_ATV.apk">iMedia-Xem-TV-HD_25.04.06.B_ATV.apk</a>
   <hr color="black" />
   
-  Nguồn: https://lambassvn.github.io/
+  Sms/Call: 092.4440444 <br> Nguồn: https://lambassvn.github.io/
   <hr color="black" width="1000px" />
 
 
