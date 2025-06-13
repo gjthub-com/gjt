@@ -50,7 +50,7 @@
   <a href="https://gjthub-com.github.io/iMedia-Xem-TV-HD_25.04.06.B_ATV.apk">iMedia-Xem-TV-HD_25.04.06.B_ATV.apk</a>
   <hr color="black" />
   
-  Sms/Call: 092.4440444 | Nguồn: https://lambassvn.github.io/
+  Bán cặp sim 09.6255.9998 + 08.6266.9998 | Bán sim 035.3546789 => Sms/Call: 07.6789.7689 <br>Nguồn: https://lambassvn.github.io/
   <hr color="black" width="1000px" />
 
 
